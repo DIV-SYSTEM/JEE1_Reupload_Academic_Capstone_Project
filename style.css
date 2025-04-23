@@ -1,5 +1,6 @@
 .carousel-item img{
     height: 100vh;
+    opacity :1;
 }
 .nav_css{
     position: fixed;
